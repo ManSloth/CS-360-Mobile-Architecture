@@ -1,0 +1,23 @@
+com/example/project2/BuildConfig.java
+ com.example.project2.BuildConfig
+com/example/project2/databaseActivity.java
+ com.example.project2.databaseActivity
+ com.example.project2.databaseActivity$1
+ com.example.project2.databaseActivity$2
+ com.example.project2.databaseActivity$3
+com/example/project2/settings.java
+ com.example.project2.settings
+com/example/project2/inputWeight.java
+ com.example.project2.inputWeight
+com/example/project2/WeightDatabase.java
+ com.example.project2.WeightDatabase
+ com.example.project2.WeightDatabase$GoalTable
+ com.example.project2.WeightDatabase$LoginTable
+ com.example.project2.WeightDatabase$WeightTable
+com/example/project2/goalWeight.java
+ com.example.project2.goalWeight
+ com.example.project2.goalWeight$1
+com/example/project2/MainActivity.java
+ com.example.project2.MainActivity
+com/example/project2/permission.java
+ com.example.project2.permission
